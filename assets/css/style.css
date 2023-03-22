@@ -102,14 +102,9 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  /* color: #000000; */
   overflow-y: auto;
   font-family: 'Open Sans';
-  /* background-color: #000000; */
-  /* filter: blur(2px); */
   background: #101114;
-
-  /* background-color: rgba(225, 225, 225, 0.1); */
 }
 #header .profile img {
   margin: 15px auto;
@@ -164,9 +159,6 @@ h6 {
   #main {
     margin-left: 0;
   }
-  /* .about {
-    margin-left: 0;
-  } */
 }
 
 /*--------------------------------------------------------------
@@ -249,10 +241,6 @@ h6 {
   left: 0;
 }
 
-/* hero-video {
-  height: 100vh;
-  width: 100vw;
-} */
 /*--------------------------------------------------------------
 # END Navigation Menu
 --------------------------------------------------------------*/
@@ -261,37 +249,26 @@ h6 {
 # START Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100vw;
-  height: 100vh;
-  /* background: url('../img/desert.jpg') top center; */
+  width: 100%;
+  height: 100vh; */
   background-size: cover;
+  background: top center;
   font-weight: 700;
-  background-position: center center;
+  background-position: center center; 
 }
+
 .hero-video {
+  object-fit: fill;
   position: absolute;
   right: 0;
   bottom: 0;
   z-index: -1;
 }
-@media (min-aspect-ratio: 16/9) {
-  .hero-video {
-    width: auto;
-    height: 100%;
-  }
-}
-@media (max-aspect-ratio: 16/9) {
-  .hero-video {
-    width: 100%;
-    height: auto;
-  }
-}
+
 
 #hero:before {
   content: '';
-  /* background: rgba(5, 13, 24, 0.3); */
   position: absolute;
-  /* font-weight: 700; */
   bottom: 0;
   top: 0;
   left: 0;
@@ -309,7 +286,6 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #cfd0da;
-
   font-family: 'Open Sans', sans-serif;
 }
 #hero p {
@@ -326,9 +302,6 @@ h6 {
   letter-spacing: 1px;
 }
 
-/* #hero nav-link scrollto active {
-
-} */
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -402,7 +375,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #e4e7ec;
+  color: #979ccb;
   font-family: 'Open Sans', sans-serif;
 
 }
@@ -412,9 +385,10 @@ border-radius: 1rem;
 }
 /* here */
 p.fst-italic {
-  color: #d2d4e3;
+  color: #e8e9ef;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  font-weight: 70px;
 }
 .about .content ul {
   list-style: none;
@@ -500,7 +474,7 @@ div.section-title {
 # START Skills
 --------------------------------------------------------------*/
 .section-title p {
-  color: #ffffff;
+  color: #979ccb;
   font-family: 'Open Sans';
 }
 .skills .progress {
@@ -521,7 +495,6 @@ div.section-title {
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
-  /* color: rgba(225, 225, 225, 0.1); */
   color: #e3ede5;
 }
 .skills .progress-bar-wrap {
@@ -553,6 +526,10 @@ div.section-title {
   max-width: 500px;
   /* padding: 10px; */
 }
+.section-title h1{
+  color: #979ccb;
+}
+
 
 .download-font a {
   display: flex;
@@ -572,6 +549,7 @@ div.section-title {
 }
 .title {
   /* align-items: center; */
+  
   display: flex;
   justify-content: center;
   font-size: 4rem;
@@ -733,7 +711,6 @@ div.section-title {
   display: block;
   margin: auto;
   width: 154px;
-  
 }
 .btn-flip:hover:after {
   opacity: 1;
@@ -755,7 +732,6 @@ div.section-title {
   background: #adadaf;
   content: attr(data-back);
   transform: translateY(-50%) rotateX(90deg);
-
 }
 .btn-flip:before {
   top: 0;
