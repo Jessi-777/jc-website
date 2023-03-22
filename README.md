@@ -1,2 +1,4 @@
-# jc-website
+# Welcome to my website ^_^
+
+
 
