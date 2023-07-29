@@ -756,10 +756,12 @@ div.section-title {
   justify-content: center;
 }
 
+/* contact-section-title */
+
 /* contact button */
 .contact-section-title span {
   text-align: center;
-  font-size: 23px;
+  font-size: 19px;
 }
 /* want to hire me title */
 .contact-section-title h2 {
