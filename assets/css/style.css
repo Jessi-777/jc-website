@@ -38,7 +38,8 @@ a {
 } */
 
 a:hover {
-  color: #fdfdfd;
+  /* color: #fdfdfd; */
+  color: #727b89;
   text-decoration: none;
 }
 
@@ -533,7 +534,8 @@ div.section-title {
   /* padding: 10px; */
 }
 .section-title h1{
-  color: #a8aab6;
+  color: #727b89;
+ 
 }
 
 
@@ -544,6 +546,7 @@ div.section-title {
   position: relative;
   text-align: center;
   margin-top: -55px;
+ 
   font-family: 'Poppins', sans-serif;
   /* margin: 0 auto; */
   align-items: center;
@@ -555,7 +558,7 @@ div.section-title {
 }
 .title {
   /* align-items: center; */
-  
+  /* color: #727b89; */
   display: flex;
   justify-content: center;
   font-size: 4rem;
