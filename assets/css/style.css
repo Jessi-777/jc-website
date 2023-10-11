@@ -222,7 +222,7 @@ h6 {
   transition: all 0.4s;
   outline: none !important;
   background-color: #979ccb;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -540,7 +540,7 @@ div.section-title {
   position: relative;
   text-align: center;
   margin-top: -55px;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
   /* margin: 0 auto; */
   align-items: center;
   position: absolute;
@@ -705,7 +705,7 @@ div.section-title {
   line-height: 40px;
   position: relative;
   text-align: center;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
   text-decoration: none;
   letter-spacing: 1px;
   display: inline-block;
@@ -768,7 +768,7 @@ div.section-title {
   text-align: center;
   font-size: 43px;
   color: white;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
 }
 
 
@@ -786,7 +786,7 @@ div.section-title {
 
 .section-title-ref h2 {
   color: white;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 27px;
 }
 
