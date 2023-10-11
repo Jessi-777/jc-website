@@ -447,7 +447,7 @@ p.fst-italic {
   margin-left: 60px;
 }
 div.section-title {
-  color: #7593bf;
+  color: #b3b3ba;
   font-family: 'Open Sans';
 }
 .facts .count-box a:hover {
@@ -458,13 +458,13 @@ div.section-title {
   margin: 0 0 0 60px;
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  color: #dbe0e5;
+  color: #fdfdff;
 }
 .facts .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #ececec;
+  color: #fdfdff;
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
   transition: ease-in-out 0.3s;
