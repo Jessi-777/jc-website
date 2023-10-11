@@ -291,6 +291,8 @@ h6 {
 }
 #hero p {
 
+  /* color: #b9c51a;
+   */
   color: #b9c51a;
   margin-bottom: 50px;
   font-weight: 600;
@@ -531,7 +533,7 @@ div.section-title {
   /* padding: 10px; */
 }
 .section-title h1{
-  color: #979ccb;
+  color: #a8aab6;
 }
 
 
@@ -572,7 +574,7 @@ div.section-title {
   max-width: 300px;
   padding: 5rem 2.5rem;
   backdrop-filter: blur(1rem);
-  box-shadow: 1.3rem 1.3rem 1.3rem rgba(11, 7, 54, 0.5);
+  box-shadow: 1.3rem 1.3rem 1.3rem rgba(8, 16, 75, 0.5);
   margin-top: 20px;
  
   margin-bottom: 20px;
@@ -671,8 +673,8 @@ div.section-title {
   width: 50%;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  
-  background: #b9c51a;
+  background: #444b56;
+  /* background: #b9c51a; */
 }
 .portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #fffefe;
