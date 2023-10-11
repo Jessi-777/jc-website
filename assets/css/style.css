@@ -48,7 +48,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 21px;
  
 
@@ -103,7 +103,7 @@ h6 {
   transition: all 0.5s;
   padding: 0 15px;
   overflow-y: auto;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
   background: #101114;
 }
 #header .profile img {
@@ -118,13 +118,13 @@ h6 {
   font-weight: 600;
   -moz-text-align-last: center;
   text-align-last: center;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
 }
 #header .profile h1 a,
 #header .profile h1 a:hover {
   color: #fff;
   text-decoration: none;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
 }
 #header .profile .social-links a {
   font-size: 18px;
@@ -139,7 +139,7 @@ h6 {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
 }
 #header .profile .social-links a:hover {
   background: #979ccb;
@@ -287,7 +287,7 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #cfd0da;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 #hero p {
 
@@ -295,7 +295,7 @@ h6 {
   margin-bottom: 50px;
   font-weight: 600;
   font-size: 26px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 #hero p span {
   color: #b9c51a;
@@ -313,13 +313,13 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
 }
 /*--------------------------------------------------------------
@@ -340,7 +340,7 @@ section {
 
 .section-title {
   padding-bottom: 30px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .section-title h2 {
   font-size: 32px;
@@ -349,7 +349,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #e8ebef;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .section-title h2::after {
   content: '';
@@ -361,7 +361,7 @@ section {
   color: #22264a;
   bottom: 0;
   left: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .section-title p {
   margin-bottom: 0;
@@ -378,7 +378,7 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #979ccb;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
 }
 
@@ -388,7 +388,7 @@ border-radius: 1rem;
 /* here */
 p.fst-italic {
   color: #e8e9ef;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: 70px;
 }
@@ -454,7 +454,7 @@ div.section-title {
 .facts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 14px;
   color: #dbe0e5;
 }
@@ -464,7 +464,7 @@ div.section-title {
   margin-top: 20px;
   color: #ececec;
   font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   transition: ease-in-out 0.3s;
 }
 
@@ -477,7 +477,7 @@ div.section-title {
 --------------------------------------------------------------*/
 .section-title p {
   color: #979ccb;
-  font-family: 'Open Sans';
+  font-family: 'Poppins', sans-serif;
 }
 .skills .progress {
   height: 60px;
