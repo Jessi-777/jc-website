@@ -394,7 +394,7 @@ border-radius: 1rem;
 }
 /* here */
 p.fst {
-  color: #e3e3ef;
+  color: #d0d0de;
   /* color: #e3ede5; */
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
@@ -777,7 +777,7 @@ div.section-title {
 /* want to hire me title */
 .contact-section-title h2 {
   text-align: center;
-  font-size: 33px;
+  font-size: 28px;
   color: white;
   font-family: 'Poppins', sans-serif;
 }
