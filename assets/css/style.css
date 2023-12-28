@@ -393,8 +393,8 @@ img.img-fluid {
 border-radius: 1rem;
 }
 /* here */
-p.fst-italic {
-  color: #b3b3ba;
+p.fst {
+  color: #e3e3ef;
   /* color: #e3ede5; */
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
@@ -777,7 +777,7 @@ div.section-title {
 /* want to hire me title */
 .contact-section-title h2 {
   text-align: center;
-  font-size: 43px;
+  font-size: 33px;
   color: white;
   font-family: 'Poppins', sans-serif;
 }
