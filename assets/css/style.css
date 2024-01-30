@@ -9,7 +9,7 @@
 }
 body {
   /* font-family: 'Open Sans'; */
-  color: #d1d3e9;
+  color: #dcdeeb;
   background-color: black;
   /* background: #f9f9f9; */
   margin: 0;
@@ -40,7 +40,7 @@ a {
 
 a:hover {
   /* color: #fdfdfd; */
-  color: #727b89;
+  color: #e3e6ed;
   text-decoration: none;
 }
 
@@ -54,7 +54,6 @@ h6 {
   font-size: 21px;
  
 
-  /* color: #e1e6e9; */
   color: #727b89;
 }
 /*--------------------------------------------------------------
@@ -672,7 +671,7 @@ div.section-title {
 
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: #787373;
   font-size: 28px;
   text-align: center;
   background:  #22264a;
@@ -708,10 +707,10 @@ div.section-title {
 /* port-deets */
 .portfolio-details {
   /* padding-top: 80px; */
-  padding-top: 80px;
+  padding-top: 200px;
   /* margin-top: 20px; */
   /* padding-top: 80px; */
-  background-color: #fff;
+  background-color: #f1f3f6;
  
 }
 /* container */
@@ -739,32 +738,39 @@ div.section-title {
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(5, 13, 24, 0.08);
+  
 }
 .portfolio-details .portfolio-info h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  color: #1c1c1d;
+  border-bottom: 1px solid #51539a;
 }
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
+  color: #1c1c1d;
 }
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
+  color: #1c1c1d;
 }
 .portfolio-details .portfolio-description {
   padding-top: 30px;
+  
 }
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
+  color: #1c1c1d;
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+  color: #1c1c1d;
 }
 /*--------------------------------------------------------------
 # START Hire me Services
