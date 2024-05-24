@@ -200,14 +200,17 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #3e4164;
+  color: #354170;
+
+
+  
 }
 .nav-menu a:hover,
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover > a {
   text-decoration: none;
-  color: #a48209;
+  color: #354170;
 }
 .nav-menu a:hover i,
 .nav-menu .active i,
@@ -228,7 +231,7 @@ h6 {
   outline: none !important;
   background-color: #404d82;
   font-family: 'Poppins', sans-serif;
-  color: #9695a7;
+  color: #c7c6d4;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -508,7 +511,7 @@ div.section-title {
   display: block;
   font-weight: 600;
   font-family: 'Poppins', sans-serif;
-  color: #9695a7;
+  color: #9c9ca4;
 }
 .skills .progress .skill .val {
   float: right;
@@ -546,9 +549,8 @@ div.section-title {
 }
 .section-title h1{
   color: #cdd3dd;
- 
-}
 
+}
 
 .download-font a {
   display: flex;
@@ -557,7 +559,7 @@ div.section-title {
   position: relative;
   text-align: center;
   margin-top: -55px;
- 
+  /* color: #7a7d8a; */
   font-family: 'Poppins', sans-serif;
   /* margin: 0 auto; */
   align-items: center;
@@ -633,7 +635,7 @@ div.section-title {
   line-height: 1;
   text-transform: uppercase;
   color: rgba(225, 225, 225, 0.1);
-  color: #9695a7;
+  color: hsl(244, 6%, 57%);
   margin-bottom: 70px;
   transition: all 0.3s ease-in-out;
 }
@@ -892,7 +894,7 @@ div.section-title {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color:  #9497a4;
+  color:  #8f92a0;
 }
 .testimonials .testimonial-item h4 {
   font-size: 14px;
@@ -970,7 +972,7 @@ div.section-title {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #f4f6fd;
+  color: #a48209;
   font-size: 14px;
   position: fixed;
   left: 0;
