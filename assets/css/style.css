@@ -124,7 +124,7 @@ h6 {
 }
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #f7f7f9;
+  color: #6f7180;
   
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
@@ -133,7 +133,7 @@ h6 {
   font-size: 18px;
   display: inline-block;
   background: #000000;
-  color: #f7f7f9;
+  /* color: #a48209; */
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -188,7 +188,8 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  /* color: #a8a9b4; */
+  color: #54639e;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -205,13 +206,13 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #95a5bd;
 }
 .nav-menu a:hover i,
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover > a i {
-  color: #404d82;
+  color: #a48209;
 }
 
 /* Mobile Navigation */
@@ -297,17 +298,19 @@ h6 {
 
   /* color: #b9c51a;
    */
-  color: #b9c51a;
+  color: #a48209;
   margin-bottom: 50px;
   font-weight: 600;
   font-size: 26px;
+  align-items: center;
   font-family: 'Poppins', sans-serif;
 }
 #hero p span {
-  color: #b9c51a;
+  color: #a48209;
   padding-bottom: 4px;
   font-weight: 600;
   letter-spacing: 1px;
+  align-items: center;
 }
 
 @media (min-width: 1024px) {
@@ -355,7 +358,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   /* color: #e8ebef; */
-  color: #f7f7f9;
+  color: #9b9bb1;
   font-family: 'Poppins', sans-serif;
 }
 .section-title h2::after {
@@ -364,7 +367,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #b9c51a;
+  background: #a48209;
   color: #22264a;
   bottom: 0;
   left: 0;
@@ -384,7 +387,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #d5d5e7;
+  color: #414c78;
   font-family: 'Poppins', sans-serif;
 
 }
@@ -394,7 +397,8 @@ border-radius: 1rem;
 }
 /* paragraph */
 p.fst {
-  color: #c7c7d2;
+  color: #b1b7bd;
+  /* #a48209 */
   /* color: #e3ede5; */
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
@@ -405,7 +409,7 @@ p.fst {
   font-family: 'Poppins', sans-serif;
   list-style: none;
   padding: 0;
-  color: #bcc0d6;
+  color: #b4bacf;
 }
 .about .content ul li {
   margin-bottom: 20px;
@@ -416,9 +420,9 @@ p.fst {
   margin-right: 10px;
 }
 .about .content ul i {
-  font-size: 16px;
+  font-size: 14px;
   margin-right: 5px;
-  color: #404d82;
+  color: #b4bacf;
   line-height: 0;
 }
 .about .content p:last-child {
@@ -442,7 +446,7 @@ p.fst {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #f7f7f9;
+  color: #a48209;
   float: left;
   line-height: 0;
 }
@@ -451,7 +455,7 @@ p.fst {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #404d82;
+  color: #323c65;
   margin-left: 60px;
 }
 div.section-title {
@@ -460,19 +464,20 @@ div.section-title {
 }
 .facts .count-box a:hover {
   color: #a1abbb;
+  
 }
 .facts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  color: #f7f7f9;
+  color: #b3b3ba;
 }
 .facts .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #fdfdff;
+  color: #686f87;
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
   transition: ease-in-out 0.3s;
@@ -486,7 +491,7 @@ div.section-title {
 # START Skills
 --------------------------------------------------------------*/
 .section-title p {
-  color: #6f75ab;
+  color: #7c828b;
   font-family: 'Poppins', sans-serif;
 }
 .skills .progress {
@@ -502,15 +507,15 @@ div.section-title {
   display: block;
   font-weight: 600;
   font-family: 'Poppins', sans-serif;
-  color: #ece8e8;
+  color: #7c828b;
 }
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
-  color: #e3ede5;
+  color: #a48209;
 }
 .skills .progress-bar-wrap {
-  background: rgba(231, 232, 237, 0.5);
+  background: #3a3d49;
   color: #2d4aa2;
   height: 10px;
 }
@@ -633,7 +638,7 @@ div.section-title {
 }
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #404d82;
+  color: #a48209;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -672,10 +677,10 @@ div.section-title {
 
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #787373;
+  color: #a48209;
   font-size: 28px;
   text-align: center;
-  background:  #22264a;
+  background:  #a48209;
   background-color: rgba(25, 28, 92, 0.679);
   transition: 0.3s;
   width: 50%;
