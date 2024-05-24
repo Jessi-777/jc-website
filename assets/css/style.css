@@ -133,7 +133,7 @@ h6 {
   font-size: 18px;
   display: inline-block;
   background: #000000;
-  /* color: #a48209; */
+  color: #707889;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -145,7 +145,7 @@ h6 {
   font-family: 'Poppins', sans-serif;
 }
 #header .profile .social-links a:hover {
-  background: #404d82;
+  background: #3b425e;
   color: #000000;
   text-decoration: none;
 }
@@ -189,7 +189,7 @@ h6 {
   display: flex;
   align-items: center;
   /* color: #a8a9b4; */
-  color: #54639e;
+  color: #707889;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -199,14 +199,14 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #22295e;
 }
 .nav-menu a:hover,
 .nav-menu .active,
 .nav-menu .active:focus,
 .nav-menu li:hover > a {
   text-decoration: none;
-  color: #95a5bd;
+  color: #a48209;
 }
 .nav-menu a:hover i,
 .nav-menu .active i,
@@ -358,7 +358,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   /* color: #e8ebef; */
-  color: #9b9bb1;
+  color: #939398;
   font-family: 'Poppins', sans-serif;
 }
 .section-title h2::after {
