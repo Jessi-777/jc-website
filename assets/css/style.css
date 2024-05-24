@@ -590,9 +590,8 @@ div.section-title {
   max-width: 300px;
   padding: 5rem 2.5rem;
   backdrop-filter: blur(1rem);
-  box-shadow: 1.3rem 1.3rem 1.3rem rgba(8, 16, 75, 0.5);
+  box-shadow: 1.3rem 1.3rem 1.3rem rgba(55, 65, 135, 0.5);
   margin-top: 20px;
- 
   margin-bottom: 20px;
   color: #edf1ea;
 
