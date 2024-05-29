@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* font-family: "Poppins", sans-serif; */
   font-family: 'Open Sans', sans-serif;
 
 }
@@ -125,7 +124,7 @@ h6 {
 }
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #9695a7;
+  color: #d6d5e3;
   
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
@@ -134,7 +133,7 @@ h6 {
   font-size: 18px;
   display: inline-block;
   background: #000000;
-  color: #9695a7;
+  color: #d6d5e3;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -190,7 +189,7 @@ h6 {
   display: flex;
   align-items: center;
   /* color: #a8a9b4; */
-  color: #9695a7;
+  color: #dcdce7;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -295,7 +294,7 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   /* color: #ebebf1; */
-  color: #86869c;
+  color: #d0d0e0;
   font-family: 'Poppins', sans-serif;
 }
 #hero p {
@@ -401,7 +400,7 @@ border-radius: 1rem;
 }
 /* paragraph */
 p.fst {
-  color: #a8a8b6;
+  color: #d6d5e3;
   /* #a48209 */
   /* color: #e3ede5; */
   font-family: 'Poppins', sans-serif;
@@ -413,7 +412,7 @@ p.fst {
   font-family: 'Poppins', sans-serif;
   list-style: none;
   padding: 0;
-  color: #9695a7;
+  color: #cbcad8;
 }
 .about .content ul li {
   margin-bottom: 20px;
@@ -450,7 +449,7 @@ p.fst {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #a48209;
+  color: #969aa8;
   float: left;
   line-height: 0;
 }
@@ -475,7 +474,7 @@ div.section-title {
   margin: 0 0 0 60px;
   font-family: 'Poppins', sans-serif;
   font-size: 14px;
-  color: #9695a7;
+  color: #d6d5e3;
 }
 .facts .count-box a {
   font-weight: 600;
@@ -971,7 +970,7 @@ div.section-title {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #a48209;
+  color: #8e919c;
   font-size: 14px;
   position: fixed;
   left: 0;
