@@ -8,12 +8,12 @@
 }
 body {
   /* font-family: 'Open Sans'; */
-  color: #dcdeeb;
+  color: #eff0f5;
   background-color: black;
   /* background: #f9f9f9; */
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
-
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: "Sankofa Display", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -49,7 +49,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: "Sankofa Display", sans-serif;
   font-size: 21px;
  
 
@@ -105,7 +106,9 @@ h6 {
   transition: all 0.5s;
   padding: 0 15px;
   overflow-y: auto;
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  /* font-family: "Rajdhani", sans-serif; */
+  font-family: "Sankofa Display", sans-serif;
   background: #101114;
 }
 #header .profile img {
@@ -200,6 +203,8 @@ h6 {
   font-size: 24px;
   padding-right: 8px;
   color: #354170;
+  font-family: "Rajdhani", sans-serif;
+  /* font-family: "Sankofa Display", sans-serif; */
 
 
   
@@ -329,6 +334,7 @@ h6 {
   }
   #hero h2 {
     font-size: 18px;
+  
     line-height: 24px;
     margin-bottom: 30px;
     font-family: 'Poppins', sans-serif;
@@ -362,7 +368,9 @@ section {
   position: relative;
   /* color: #e8ebef; */
   color: #939398;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Sankofa Display", sans-serif;
+
+  /* font-family: 'Poppins', sans-serif; */
 }
 .section-title h2::after {
   content: '';
@@ -389,9 +397,11 @@ section {
 /* software Engineer Full Stack title in About*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
-  color: #414c78;
-  font-family: 'Poppins', sans-serif;
+  font-size: 27px;
+  color: #626b90;
+  /* color: #a48209; */
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: "Sankofa Display", sans-serif;
 
 }
 
@@ -400,19 +410,23 @@ border-radius: 1rem;
 }
 /* paragraph */
 p.fst {
-  color: #d6d5e3;
+  color: #b7b7bd;
   /* #a48209 */
   /* color: #e3ede5; */
-  font-family: 'Poppins', sans-serif;
-  font-size: 16px;
-  font-weight: 90px;
+  /* font-family: 'Poppins', sans-serif; */
+  /* font-family: "Caveat", cursive; */
+  font-family: "Rajdhani", sans-serif;
+  font-size: 24px;
+  font-weight: 95px;
 }
 /*  */
 .about .content ul {
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
+  /* font-family: "Rajdhani", sans-serif; */
+  font-family: "Sankofa Display", sans-serif;
   list-style: none;
   padding: 0;
-  color: #cbcad8;
+  color: #f0eff6;
 }
 .about .content ul li {
   margin-bottom: 20px;
@@ -425,7 +439,7 @@ p.fst {
 .about .content ul i {
   font-size: 17px;
   margin-right: 5px;
-  color: #4658a2;
+  color: #5a6386;
   line-height: 0;
 }
 .about .content p:last-child {
@@ -435,7 +449,7 @@ p.fst {
 /*--------------------------------------------------------------
 # END About
 --------------------------------------------------------------*/
-
+/* font-size: 24px; */
 /*--------------------------------------------------------------
 # START Facts
 --------------------------------------------------------------*/
@@ -875,6 +889,7 @@ div.section-title {
 .section-title-ref h2 {
   color: #414c78;
   font-family: 'Poppins', sans-serif;
+  font-size: 24px;
   margin-bottom: 27px;
 }
 
