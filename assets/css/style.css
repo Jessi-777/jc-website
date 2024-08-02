@@ -330,14 +330,15 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Rajdhani", sans-serif;
   }
   #hero h2 {
     font-size: 18px;
   
     line-height: 24px;
     margin-bottom: 30px;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: "Rajdhani", sans-serif;
   }
 }
 /*--------------------------------------------------------------
@@ -410,7 +411,7 @@ border-radius: 1rem;
 }
 /* paragraph */
 p.fst {
-  color: #b7b7bd;
+  color: #cbcbd0;
   /* #a48209 */
   /* color: #e3ede5; */
   /* font-family: 'Poppins', sans-serif; */
