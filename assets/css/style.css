@@ -423,7 +423,7 @@ h6 {
   box-sizing: border-box;
 }
 
-h1 {
+/* h1 {
   font-family: "Arima Madurai", cursive;
   color: black;
   font-size: 4rem;
@@ -431,7 +431,7 @@ h1 {
   text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.6);
   position: relative;
   z-index: 3;
-}
+} */
 
 .bird {
   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg);
@@ -442,6 +442,7 @@ h1 {
   animation-name: fly-cycle;
   animation-timing-function: steps(10);
   animation-iteration-count: infinite;
+  
 }
 
 .bird--one {
@@ -619,7 +620,7 @@ border-radius: 1rem;
 }
 /* paragraph */
 p.fst {
-  color: #cbcbd0;
+  color: #e9e9ef;
   /* #a48209 */
   /* color: #e3ede5; */
   /* font-family: 'Poppins', sans-serif; */
@@ -635,7 +636,7 @@ p.fst {
   font-family: "Rajdhani", sans-serif;
   list-style: none;
   padding: 0;
-  color: #f0eff6;
+  color: #c6c7d3;
 }
 .about .content ul li {
   margin-bottom: 20px;
