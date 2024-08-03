@@ -423,9 +423,6 @@ section {
   /* color: #a48209; */
   /* font-family: 'Poppins', sans-serif; */
   font-family: "Sankofa Display", sans-serif;
-
-  
-
 }
 
 img.img-fluid {
@@ -441,7 +438,7 @@ p.fst {
   /* font-family: "Sankofa Display", sans-serif; */
   /* font-family: "Caveat", cursive; */
   font-family: "Rajdhani", sans-serif;
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 95px;
 }
 /*  */
@@ -555,7 +552,7 @@ div.section-title {
   color: #a48209;
 }
 .skills .progress-bar-wrap {
-  background: #3a3d49;
+  /* background: #3a3d49; */
   color: #2d4aa2;
   height: 10px;
 }
@@ -565,7 +562,8 @@ div.section-title {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #07080a;
+  /* background-color: #07080a; */
+  background-color: #585c65;
 }
 /*--------------------------------------------------------------
 # END Skills
@@ -725,7 +723,7 @@ div.section-title {
   font-size: 28px;
   text-align: center;
   background:  #a48209;
-  background-color: rgba(25, 28, 92, 0.679);
+  background-color: rgba(51, 55, 99, 0.773);
   transition: 0.3s;
   width: 50%;
 }
@@ -1094,7 +1092,7 @@ BIRDS
 
 
 .bird {
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg);
+  /* background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/174479/bird-cells-new.svg); */
   background-size: auto 100%;
   width: 88px;
   height: 125px;
