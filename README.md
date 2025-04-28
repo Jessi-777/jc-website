@@ -1,2 +1,2 @@
-# Universal Software engineering, development and design website.
+# Software engineering, development, and design website.
 
