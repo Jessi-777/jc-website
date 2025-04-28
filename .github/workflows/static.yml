@@ -30,17 +30,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
 
       - name: Upload static files
-        uses: actions/upload-pages-artifact@v4  # 🔥 Correct action version and name
+        uses: actions/upload-pages-artifact@v3  # ✅ Correct version here
         with:
-          # Upload the entire repository (or specify a subfolder if needed)
-          path: '.'
+          path: '.'  # ✅ Correct path
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
