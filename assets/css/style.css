@@ -73,7 +73,7 @@ h6 {
   font-style: normal;
 
   /* color: #727b89; */
-  color: #414c78;
+  color: #66b3ab;
 }
 /*--------------------------------------------------------------
 # START Back to top button
@@ -1201,7 +1201,8 @@ div.section-title {
 .testimonials .testimonial-item .quote-icon-right {
   color: #c3c3c7;
   font-size: 26px;
-  font-family: 'Poppins', sans-serif;
+  /* background: #95b0b3; */
+  font-family: 'Open Sans', sans-serif;
 }
 .testimonials .testimonial-item .quote-icon-left {
   display: inline-block;
