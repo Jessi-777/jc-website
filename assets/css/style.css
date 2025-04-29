@@ -28,8 +28,8 @@
 }
 
 body {
+  background-color: rgb(57, 57, 61);
 
-  background-color: rgb(24, 24, 25);
   margin: 0;
   font-family: "Megrim", system-ui;  
   -webkit-font-smoothing: antialiased;
@@ -328,7 +328,7 @@ h6 {
 /* typer start */
 
 #hero p {
-  color: #697074;
+  color: #fbfeff;
   margin-bottom: 50px;
   font-weight: 900;
   font-size: 21px;
@@ -542,8 +542,8 @@ section {
   overflow: hidden;
 }
 .section-bg {
-  background: #22264a;
-  background: rgba(8, 8, 8, 0.946);
+  /* background: #22264a; */
+  background: rgba(23, 24, 24, 0.946);
   backdrop-filter: blur( 2px );
 }
 .section-title {
@@ -567,7 +567,7 @@ section {
   content: '';
   position: absolute;
   display: block;
-  width: 62px;
+  width: 42px;
   height: 4px;
   /* background: #a48209; */
   color: #6b7585;
